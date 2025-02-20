@@ -1,4 +1,4 @@
-# Email slice 
+#  Email slice 
 thename  = input("Enter your name : ").strip().capitalize()
 email = input("Enter your email : ").strip().capitalize()
 
