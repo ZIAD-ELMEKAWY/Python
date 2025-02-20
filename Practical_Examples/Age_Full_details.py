@@ -1,4 +1,4 @@
-# Your age full details
+#  Your age full details
 age = int(input("Enter your age : ").strip())
 months = age * 12
 weeks = age * 52
